@@ -1,0 +1,6 @@
+{
+  "name": "دومينو كاش | Domino Cash Arena",
+  "description": "منصة غرف الدومينو التنافسية مع نظام توثيق فودافون كاش وتحويل جوائز الفائزين للمنظمين واللاعبين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
